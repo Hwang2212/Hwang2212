@@ -7,6 +7,7 @@
 - 👀 I’m interested in Web and Mobile App Development
 - 🛠 I'm currently working on [DocOCR][dococr]!
 - 🌱 I’m constantly learning Flutter, Javascript, and Node.js now for my project
+- 📖 I've participated in Air Asia Academy's Software Engineering Bootcamp
 
 ## Stats:
 
