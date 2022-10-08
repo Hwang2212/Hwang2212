@@ -5,9 +5,12 @@
 
 
 - 👀 I’m interested in Web and Mobile App Development
-- 🛠 I'm currently working on [DocOCR][dococr]!
+- 🛠 My Recent Project is [DocOCR][dococr]!
 - 🌱 I’m constantly learning Flutter, Javascript, and Node.js now for my project
 - 📖 I've participated in Air Asia Academy's Software Engineering Bootcamp
+- 🛠 Currently working on [My Portfolio Site][portfoliocode]!
+
+Click [here][viewportfolio] to check my portfolio page out!
 
 ## Stats:
 
@@ -27,6 +30,9 @@
 
 
 [dococr]: https://github.com/Hwang2212/dococr
+[portfoliocode]: https://github.com/Hwang2212/portfolio
+[viewportfolio]: https://andyhwang.netlify.app/
+
 <!---
 Hwang2212/Hwang2212 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
