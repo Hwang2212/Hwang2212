@@ -10,7 +10,7 @@
 - 📖 I've participated in Air Asia Academy's Software Engineering Bootcamp
 - 🛠 Currently working on [My Portfolio Site][portfoliocode]!
 
-Click [here][viewportfolio] to check my portfolio page out!
+Click [here][viewportfolio] to check out my portfolio page!
 
 ## Stats:
 
