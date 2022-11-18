@@ -5,7 +5,8 @@
 
 
 - 👀 I’m interested in Web and Mobile App Development
-- 🛠 My Recent Project is [DocOCR][dococr]!
+- 🛠 My Final Year Project is [DocOCR][dococr]!
+- 🛠 My Recent Project is [Blog Admin][blogadmin]!
 - 🌱 I’m constantly learning Flutter, Javascript, and Node.js now for my project
 - 📖 I've participated in Air Asia Academy's Software Engineering Bootcamp
 - 🛠 Currently working on [My Portfolio Site][portfoliocode]!
@@ -30,6 +31,7 @@ Click [here][viewportfolio] to check out my portfolio page!
 
 
 [dococr]: https://github.com/Hwang2212/dococr
+[blogadmin]: https://github.com/Hwang2212/blog_admin
 [portfoliocode]: https://github.com/Hwang2212/portfolio
 [viewportfolio]: https://andyhwang.netlify.app/
 
